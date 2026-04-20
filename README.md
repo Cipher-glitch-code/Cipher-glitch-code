@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Muskan! 👋
 
-<!--
-**Cipher-glitch-code/Cipher-glitch-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Postgraduate Cybersecurity student based in Belleville, ON, bridging the gap between IT Service Management and proactive security engineering. With over 3 years of experience in vulnerability management and CMDB discovery, I am currently expanding my expertise in securing modern web architectures.
 
-Here are some ideas to get you started:
+## 🔐 What I'm working on
+* **Cybersecurity:** Threat Modeling (STRIDE), Network Security, Cloud Security (GCP/AWS).
+* **Secure Development:** Building robust, visually appealing applications using React and Next.js.
+* **Compliance:** Automated reporting and ISO 27001 baselines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+* **Languages:** JavaScript, SQL, Python (Basics)
+* **Frameworks:** React, Next.js, Firebase
+* **Tools & Platforms:** UCMDB, ServiceNow, Git, Windows Server
+* **Certifications:** ITIL® v4
+
+## 📫 Let's Connect!
+* [LinkedIn](https://www.linkedin.com/in/muskan-nagpal-165aa714a/)
+* **Email:** mnagpal02@gmail.com
